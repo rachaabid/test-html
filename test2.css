@@ -1,0 +1,27 @@
+#btn{
+  margin-left: 500px;
+}
+#image{
+  position: relative;
+}
+#pbtn{
+  position: absolute;
+  z-index: 1;
+  margin-top: 200px;
+}
+#p1{
+  font-size: 40px; 
+}
+
+#ul li a{
+  color: white !important;
+  width: 175px;
+  margin-left: 200x !important;
+  margin-right: 100px !important;
+}
+#fb, #tw, #y{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  color: white !important;
+}
